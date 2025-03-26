@@ -1,6 +1,6 @@
 # App Web
 
-![App Web Logo](https://github.com/leonardo-ggomes/app-web/blob/main/public/images/logo.png)
+![App Web Logo](./public/img/js_logo.png)
 
 Aplicação desenvolvida para demonstrar o uso do EJS no curso técnico de desenvolvimento de sistemas.
 
